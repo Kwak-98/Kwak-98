@@ -101,10 +101,8 @@
     <a href="https://discordapp.com/users/hyun_e98"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
   </div>
   <br>
-  <div> 
-      <img height="220px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut" />
-      <img height="220px" width="500px" src="https://github-readme-stats.vercel.app/api?username=Kwak-98&show_icons=true&theme=default" />
-  <div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kwak-98&show_icons=true&theme=default" />
 </div>
 
 ##
