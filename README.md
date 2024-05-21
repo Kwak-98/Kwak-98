@@ -11,11 +11,9 @@
 
 <h2 align="center">✨Introduce</h2>
 <div align="left">
-  <ul>
-    <li>내용1</li>
-    <li>내용2</li>
-    <li>내용3</li>
-  </ul>
+  <p>- </p>
+  <p>- </p>
+  <p>- </p>
 </div>
 
 ##
@@ -74,11 +72,24 @@
 
 <div align="center">
   <h2> 🌱Learning</h2>
-  <ul>
-    <li list-style-type: none>Docker - 컨테이너화된 애플리케이션 배포를 위해 학습 중입니다.</li>
-    <li list-style-type: none>Jenkins - CI/CD 파이프라인 구축을 위해 학습하고 있습니다.</li>
-    <li list-style-type: none>Swagger - API 문서화 및 테스트를 효율적으로 하기 위해 배우고 있습니다.</li>
-  </ul>
+    <div>
+    <span>
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="vertical-align:middle"/>
+      <span>컨테이너화된 애플리케이션 배포를 위해 학습 중입니다.</span>
+    </span>
+  </div>
+  <div>
+    <span>
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="vertical-align:middle"/>
+      <span>CI/CD 파이프라인 구축을 위해 학습하고 있습니다.</span>
+    </span>
+  </div>
+  <div>
+    <span>
+      <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" style="vertical-align:middle"/>
+      <span>API 문서화 및 테스트를 효율적으로 하기 위해 배우고 있습니다.</span>
+    </span>
+  </div>
 </div>
 
 ##
@@ -91,8 +102,8 @@
   </div>
   <br>
   <div> 
-      <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut" />&nbsp
-      <img height="220px" src="https://github-readme-stats.vercel.app/api?username=Kwak-98&show_icons=true&theme=default" />
+      <img height="220px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut" />
+      <img height="220px" width="500px" src="https://github-readme-stats.vercel.app/api?username=Kwak-98&show_icons=true&theme=default" />
   <div>
 </div>
 
