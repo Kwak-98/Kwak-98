@@ -1,14 +1,15 @@
 ##
 
-<!-- Title -->
+<!-- Title 타이틀-->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=023047&height=300&section=header&text=Welcome%20JiHyun's%20Github%20&fontSize=60&animation=fadeIn&fontColor=ffb703&desc=BackEndDeveloper&descAlign=70)
 
 ##
 
-<!-- Introduce -->
-<h3 align="center"> ✨Introduce</h3>💻
-<h3 align="center"> ⚒️Teck Stack</h3>
+<!-- Introduce 소개-->
+<h3 align="center"> ✨Introduce</h3>
 
+<!-- Teck Stack 기술스택 -->
+<h3 align="center"> ⚒️Teck Stack</h3>
 <div>
   BackEnd :
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <!-- java -->
@@ -51,12 +52,7 @@
   <div>
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/> - hyun_e98 <!-- discord -->
   </div>  
-  
-  <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut)
-  </div>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-98&layout=donut)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak-98&show_icons=true&theme=default)
