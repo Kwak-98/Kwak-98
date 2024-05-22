@@ -62,8 +62,8 @@
       <th>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp <!-- git -->
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp <!-- github -->
-        <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp <!-- notion -->
-        <img src="https://img.shields.io/badge/git-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <!-- discord -->
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp <!-- notion -->
+        <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <!-- discord -->
       </th>
     </tr>
   </table>
